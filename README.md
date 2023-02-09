@@ -1,5 +1,5 @@
 # RafaJoy ⚡
-An modified UnoJoy version for my Arduino Gamepad.
+A modified UnoJoy version for my Arduino Gamepad.
 
 # Changes:
 - Deleted some input's read and analog's read for more stability.
